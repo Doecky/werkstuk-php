@@ -1,0 +1,14 @@
+.remove{
+    text-align: right;
+    width: 10px;
+
+}
+.remove:hover{
+
+    color: red;
+}
+
+.remove:active{
+
+    filter: invert(40%)
+}
